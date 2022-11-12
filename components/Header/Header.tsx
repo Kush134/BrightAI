@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <div className="w-full h-16 px-6 absolute top-0 left-0 flex justify-between items-center">
       <div className="font-feather text-white text-2xl">
-        GUPPY
+        BRIGHT
         <span className="bg-gradient-to-br from-beetle to-humpback bg-clip-text text-transparent">
           AI
         </span>
