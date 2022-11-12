@@ -51,7 +51,7 @@ export default function Home() {
               className="flex items-center flex-col justify-center space-y-4"
             >
               <h1 className="text-4xl font-feather text-white">
-                Welcome to BrightAI!
+                Welcome to GuppyAI!
               </h1>
               <Button title="Continue" onClick={() => setStep(1)} />
             </motion.div>
